@@ -4,7 +4,7 @@ import Heading from "./Heading";
 export function HeroSection() {
   return (
     <>
-      <section className="relative h-[500px] w-full">
+      <section className="relative h-[500px] w-full bg-black">
         <Image
           src="/hero/banner.jpg"
           alt="Gray"
