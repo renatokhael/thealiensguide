@@ -3,7 +3,7 @@ import Link from "next/link";
 export default function Heading() {
   return (
     <div className="bg-gradient-to-b from-black to-surface flex flex-col justify-center items-center py-16">
-      <div className="mx-auto max-w-[750px] text-center">
+      <div className="mx-auto max-w-[750px] text-center p-10">
         <h1 className="text-white text-4xl my-5"> THE ALIEN GUIDE</h1>
         <p className="text-white text-xl tracking-tight leading-6 font-light">
           We are the largest catalog of alien races on the internet. Our code is

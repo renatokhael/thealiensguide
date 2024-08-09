@@ -1,6 +1,6 @@
 export default function ContributeCard() {
   return (
-    <div className="relative drop-shadow-xl min-w-[250px] h-[200px] overflow-hidden  bg-card1">
+    <div className="relative drop-shadow-xl min-w-[400px] h-[200px] sm:min-w-[250px] overflow-hidden  bg-card1">
       <div className="absolute flex flex-col items-center justify-center text-white z-[1] opacity-90 inset-0.5 bg-card1">
         <h1 className="text-xl text-green font-bold">STEP</h1>
         <p>Connect Your Wallet</p>
