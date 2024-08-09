@@ -6,6 +6,10 @@ The Alien Guide is the largest catalog of alien races on the internet. We use se
 
 <img src=".github/screenshot.png">
 
+## Figma Layout
+
+access the figma layout [here](https://www.figma.com/design/gV1szuVqOoFe7t98gUTKa0/TheAlienGuide?node-id=6-6236&m=dev&t=uTV9bUGRQMT1DZRp-1)
+
 ## 🚀 Install
 
 Install The Alien Guide app locally
